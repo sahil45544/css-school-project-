@@ -1,0 +1,308 @@
+.s1{
+    background-color: black;
+    color: RED;
+    
+}
+.c1{
+    background-color: orange;
+    color: black;
+    padding: 10px 10px;
+}
+.c2{
+    background-color:yellow;
+    color: black;
+    display: inline-block;
+}
+.d2{
+    background-color: cyan;
+    color: brown;
+    padding: 50px 50px;
+    display: inline-block;
+}
+.c4{
+    background-color: black;
+    color: blueviolet;
+}
+.c5{
+    background-color: black;
+    color: burlywood;
+    display: inline;
+}
+.c6{
+    background-color: black;
+    color: white;
+    display: inline;
+}
+.c7{
+    background-color: black;
+    color: yellow;
+    display: inline-block;
+}
+.c8{
+    background-color: yellow;
+    color: black;
+    display: inline;
+}
+.c9{
+    background-color: red;
+    color: black;
+    display: inline;
+}
+.c10{
+    background-color: blue;
+    color: black;
+    display: inline;
+}
+.c11{
+    background-color: YELLOW;
+    color: BLACK ;
+    display: inline;
+}
+.c12{
+    background-color: cyan;
+    color: black;
+    display: inline;
+}
+.c13{
+     background-color: black;
+     color: WHITE;
+     list-style-type: none;
+    display: inline-block;
+}
+
+.s2{
+    display: flex;
+    justify-content: space-between;
+    background-color: orange;
+    color: red;
+    padding: 20px 20px;
+
+}
+.s3{
+    background-color: black;
+    color: cyan;
+    display: inline;
+}
+.s4{
+    background-color: black;
+    color: burlywood;
+    display: inline;
+}
+.s5{
+    background-color: brown;
+    color: black;
+    display: inline;
+}
+
+.p1:hover{
+    background-color: black;
+    color: cyan;
+    transition: 1s;
+    padding: 20px 20px;
+}
+
+.p2:hover{
+    background-color: black;
+    color: red;
+    transition: 1s;
+    padding: 20px 20px;
+}
+
+.p3:hover{
+    background-color: black;
+    color: yellow;
+    transition: 1s;
+    padding: 20px 20px;
+}
+
+.p4:hover{
+    background-color: black;
+    color: orange;
+    transition: 1s;
+    padding: 20px 20px;
+}
+
+.p5:hover{
+    background-color: black;
+    color: blue;
+    transition: 1s;
+    padding: 20px 20px;
+}
+.p6:hover{
+    background-color: black;
+    color: darkgoldenrod;
+    transition: 1s;
+    padding: 20px 20px;
+}
+
+.l1{
+    background-color: black;
+    color: red;
+    display: inline;
+}
+.l2{
+    background-color: black;
+    color: blue;
+    display: inline;
+}
+.l3{
+    background-color: black;
+    color: orange;
+    display: inline;
+}
+.l4{
+    background-color: black;
+    color: cyan;
+    display: inline;
+}
+.l9{
+    background-color: black;
+    color: green;
+    display: inline;
+}
+.l10{
+    background-color: blueviolet;
+}
+.l11{
+    background-color: black;
+    color: red;
+    display: inline;
+}
+.l12{
+    background-color: yellow;
+}
+.l13{
+    background-color: black;
+    color: blue;
+    display: inline;
+}
+.l14{
+    background-color: cyan;
+}
+.l15{
+    background-color: black;
+    color: brown;
+    display: inline;
+}
+.l16{
+    background-color: darkolivegreen;
+}
+.l17{
+    background-color: black;
+    color: greenyellow;
+    display: inline;
+}
+.l18{
+    background-color: blueviolet;
+}
+.k2{
+    background-color: darkgoldenrod;
+    display: inline;
+}
+.k3{
+    background-color: darkcyan;
+    display: inline;
+}
+.m1{
+    background-color: black;
+    color: aqua;
+    display: inline;
+}
+.m2{
+    background-color: red;
+    
+    display: inline;
+}
+.m3{
+    background-color: black;
+    color: blueviolet;
+    display: inline;
+}
+.m4{
+        background-color:yellow;
+        
+        display: inline;
+    
+}
+.m5{
+    background-color: black;
+    color: orange;
+    display: inline;
+}
+.m6{
+    background-color: lightblue;
+    display: inline;
+}
+.m7{
+    background-color: black;
+    color: darkgreen;
+    display: inline;
+}
+.m8{
+    background-color: lightgreen;
+    
+    display: inline;
+}
+.m9{
+    background-color: black;
+    color:darkmagenta;
+    display: inline;
+}
+.m10{
+    background-color:dimgray;
+    
+    display: inline;
+}
+.m11{
+    background-color: black;
+    color: darkorange;
+    display: inline;
+}
+.m12{
+    background-color: limegreen;
+    display: inline;
+}
+.a1{
+    background-color: black;
+    color: darkkhaki;
+    display: inline;
+}
+.a2{
+    background-color: black;
+    color: darkred;
+    display: inline;
+}
+.j1{
+    background-color: black;
+    color: darkgrey;
+    display: inline;
+}
+.j2{
+    background-color: black;
+    color: darkgray;
+    display: inline-block;
+}
+.n1{
+    background-color: black;
+    color: white;
+    display: inline-block;
+}
+.n2{
+    background-color: BLACK;
+    color: RED;
+    display: inline;
+}
+.n3{
+    background-color: black;
+    color: aqua;
+    display: inline;
+}
+.w1{
+    background-color: lightcoral;
+    color: black;
+    display: inline-block;
+
+}
+.w2{
+    color: white;
+}
